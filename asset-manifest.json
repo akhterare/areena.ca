@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/akhterare.github.io/areena.ca/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/akhterare.github.io/areena.ca/static/js/main.61581856.chunk.js",
-    "main.js.map": "/akhterare.github.io/areena.ca/static/js/main.61581856.chunk.js.map",
-    "runtime-main.js": "/akhterare.github.io/areena.ca/static/js/runtime-main.fad18ce6.js",
-    "runtime-main.js.map": "/akhterare.github.io/areena.ca/static/js/runtime-main.fad18ce6.js.map",
-    "static/js/2.db66d69d.chunk.js": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js",
-    "static/js/2.db66d69d.chunk.js.map": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js.map",
-    "static/js/3.4cad7163.chunk.js": "/akhterare.github.io/areena.ca/static/js/3.4cad7163.chunk.js",
-    "static/js/3.4cad7163.chunk.js.map": "/akhterare.github.io/areena.ca/static/js/3.4cad7163.chunk.js.map",
-    "index.html": "/akhterare.github.io/areena.ca/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/akhterare.github.io/areena.ca/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.db66d69d.chunk.js.LICENSE.txt": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js.LICENSE.txt"
+    "main.css": "/areena.ca/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/areena.ca/static/js/main.30e9bcc3.chunk.js",
+    "main.js.map": "/areena.ca/static/js/main.30e9bcc3.chunk.js.map",
+    "runtime-main.js": "/areena.ca/static/js/runtime-main.2ab54c60.js",
+    "runtime-main.js.map": "/areena.ca/static/js/runtime-main.2ab54c60.js.map",
+    "static/js/2.93441428.chunk.js": "/areena.ca/static/js/2.93441428.chunk.js",
+    "static/js/2.93441428.chunk.js.map": "/areena.ca/static/js/2.93441428.chunk.js.map",
+    "static/js/3.80463b92.chunk.js": "/areena.ca/static/js/3.80463b92.chunk.js",
+    "static/js/3.80463b92.chunk.js.map": "/areena.ca/static/js/3.80463b92.chunk.js.map",
+    "index.html": "/areena.ca/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/areena.ca/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.93441428.chunk.js.LICENSE.txt": "/areena.ca/static/js/2.93441428.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/areena.ca/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fad18ce6.js",
-    "static/js/2.db66d69d.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.61581856.chunk.js"
+    "static/js/runtime-main.2ab54c60.js",
+    "static/js/2.93441428.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.30e9bcc3.chunk.js"
   ]
 }
