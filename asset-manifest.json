@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akhterare.github.io/areena.ca/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/akhterare.github.io/areena.ca/static/js/main.61581856.chunk.js",
+    "main.js.map": "/akhterare.github.io/areena.ca/static/js/main.61581856.chunk.js.map",
+    "runtime-main.js": "/akhterare.github.io/areena.ca/static/js/runtime-main.fad18ce6.js",
+    "runtime-main.js.map": "/akhterare.github.io/areena.ca/static/js/runtime-main.fad18ce6.js.map",
+    "static/js/2.db66d69d.chunk.js": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js",
+    "static/js/2.db66d69d.chunk.js.map": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js.map",
+    "static/js/3.4cad7163.chunk.js": "/akhterare.github.io/areena.ca/static/js/3.4cad7163.chunk.js",
+    "static/js/3.4cad7163.chunk.js.map": "/akhterare.github.io/areena.ca/static/js/3.4cad7163.chunk.js.map",
+    "index.html": "/akhterare.github.io/areena.ca/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/akhterare.github.io/areena.ca/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.db66d69d.chunk.js.LICENSE.txt": "/akhterare.github.io/areena.ca/static/js/2.db66d69d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fad18ce6.js",
+    "static/js/2.db66d69d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61581856.chunk.js"
+  ]
+}
